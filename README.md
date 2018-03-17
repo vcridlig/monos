@@ -1,5 +1,6 @@
 # monos
 Raspberry Pi OS
 
-# To work locally
+# How to build monos
 git clone https://github.com/vcridlig/monos.git
+make raspberrypi3_64_defconfig
